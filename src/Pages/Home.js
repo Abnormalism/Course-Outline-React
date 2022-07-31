@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { data } from "../data";
-import Qoute from "../Components/Qoute";
 import { useGlobalContext } from "../Context";
 
 const Home = () => {
@@ -43,7 +42,6 @@ const Home = () => {
           })}
         </div>
       </main>
-      <Qoute />
     </>
   );
 };

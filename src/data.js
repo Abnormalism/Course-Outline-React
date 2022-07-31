@@ -142,15 +142,6 @@ export const outline = [
     category: "extras",
     url: "",
     image:
-      "https://blog.logrocket.com/wp-content/uploads/2019/06/styledcomponents1.png",
-  },
-  {
-    id: "5",
-    title: "Mern Stack",
-    year: "2022",
-    status: "",
-    category: "extras",
-    url: "",
-    image: "https://miro.medium.com/max/1400/1*k0SazfSJ-tPSBbt2WDYIyw.png",
+      "https://blog.kakaocdn.net/dn/b8oEEQ/btqCB81szbm/oQ0nb1HQG4GGidFtKjJmn1/img.png",
   },
 ];

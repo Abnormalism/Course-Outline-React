@@ -1,6 +1,5 @@
 import Navbar from "../Components/Navbar";
 import { Outlet } from "react-router-dom";
-import Qoute from "../Components/Qoute";
 
 const Wrapper = () => {
   return (
