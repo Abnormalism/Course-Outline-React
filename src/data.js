@@ -26,13 +26,14 @@ export const data = [
 ];
 
 export const outline = [
+  // Front End
   {
     id: "1",
     title: "HTML CSS",
     year: "2022",
     status: "done",
     category: "front end",
-    url: "",
+    url: "https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/",
     image: "https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png",
   },
   {
@@ -41,7 +42,7 @@ export const outline = [
     year: "2022",
     status: "done",
     category: "front end",
-    url: "",
+    url: "https://www.udemy.com/course/javascript-tutorial-for-beginners-w/",
     image: "https://usefulangle.com/img/thumb/javascript.png",
   },
   {
@@ -50,7 +51,7 @@ export const outline = [
     year: "2022",
     status: "done",
     category: "front end",
-    url: "",
+    url: "https://www.udemy.com/course/tailwind-from-scratch/",
     image:
       "https://cms-assets.tutsplus.com/uploads/users/30/posts/33545/preview_image/tailwind-pre.png",
   },
@@ -60,7 +61,7 @@ export const outline = [
     year: "2022",
     status: "",
     category: "front end",
-    url: "",
+    url: "https://www.udemy.com/course/react-tutorial-and-projects-course/",
     image:
       "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
   },
@@ -70,7 +71,7 @@ export const outline = [
     year: "2022",
     status: "",
     category: "front end",
-    url: "",
+    url: "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
     image: "https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png",
   },
 
@@ -81,7 +82,7 @@ export const outline = [
     year: "2022",
     status: "",
     category: "back end",
-    url: "",
+    url: "https://www.udemy.com/course/complete-csharp-masterclass/",
     image: "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",
   },
   {
@@ -90,18 +91,17 @@ export const outline = [
     year: "2022",
     status: "",
     category: "back end",
-    url: "",
+    url: "https://www.udemy.com/course/complete-aspnet-core-21-course/",
     image: "https://www.henkla.se/wp-content/uploads/2019/09/dotnet_round.png",
   },
   {
     id: "3",
-    title: "MongoDB",
+    title: "MySQL",
     year: "2022",
     status: "",
     category: "back end",
-    url: "",
-    image:
-      "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
+    url: "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+    image: "https://wikihak.com/wp-content/uploads/2019/07/mysqlenumerate.png",
   },
 
   // Extra
@@ -111,36 +111,17 @@ export const outline = [
     year: "2022",
     status: "",
     category: "extras",
-    url: "",
+    url: "https://www.udemy.com/course/understanding-typescript/",
     image:
       "https://res.cloudinary.com/practicaldev/image/fetch/s--cKHeGzUo--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uf3a8y7xh8aroo95qocz.jpg",
   },
   {
     id: "2",
-    title: "React Query",
-    year: "2022",
-    status: "",
-    category: "extras",
-    url: "",
-    image:
-      "https://blog.logrocket.com/wp-content/uploads/2021/02/reactquery3.png",
-  },
-  {
-    id: "3",
-    title: "Jest",
-    year: "2022",
-    status: "",
-    category: "extras",
-    url: "",
-    image: "https://jestjs.io/img/opengraph.png",
-  },
-  {
-    id: "4",
     title: "Styled Components",
     year: "2022",
     status: "",
     category: "extras",
-    url: "",
+    url: "https://www.udemy.com/course/styled-components-tutorial-and-project-course/",
     image:
       "https://blog.kakaocdn.net/dn/b8oEEQ/btqCB81szbm/oQ0nb1HQG4GGidFtKjJmn1/img.png",
   },
