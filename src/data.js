@@ -59,7 +59,7 @@ export const outline = [
     id: "4",
     title: "React JS",
     year: "2022",
-    status: "",
+    status: "ongoing",
     category: "front end",
     url: "https://www.udemy.com/course/react-tutorial-and-projects-course/",
     image:
@@ -80,7 +80,7 @@ export const outline = [
     id: "1",
     title: "C#",
     year: "2022",
-    status: "",
+    status: "ongoing",
     category: "back end",
     url: "https://www.udemy.com/course/complete-csharp-masterclass/",
     image: "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png",

@@ -45,7 +45,13 @@ const SingleGoal = () => {
                       <h1 className="text-xl text-cyan-600 font-bold text-center">
                         {title}
                         {status && (
-                          <span className="text-lime-700 capitalize">
+                          <span
+                            className={`${
+                              status === "ongoing"
+                                ? "text-red-500"
+                                : "text-lime-700"
+                            }  capitalize`}
+                          >
                             |{status}
                           </span>
                         )}
